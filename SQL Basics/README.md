@@ -3,7 +3,7 @@
 **SQL Commands and Data Types**
 1. **Data Definition Language(DDL):**
 Data Definition Language is used to specify the structure i.e. schema of a relational database. DDL provides commands for creation, modification and deletion of various database objects like tables, views, stored procedures, indexes, constraints etc. The output of DDL is placed in data dictionary which contains metadata i.e. data about data.
-1. **CREATE:**Creating new database object.
+1. **CREATE**:Creating new database object.
 2. **ALTER**: Modify existing database object.
 3. **DROP**: Deleting existing database object.
 4. **TRUNCATE**: Remove all rows from table.
