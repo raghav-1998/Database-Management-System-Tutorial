@@ -1,0 +1,14 @@
+1. Consider an application for an educational institute. Every department has several instructors but an instructor 
+can be associated with only one department. One among the instructors would act as head of the department. 
+Instructors are allocated to take classes in multiple courses. There are many instructors for a given course. 
+Make relations based on information & identify Primary Keys & Foreign keys. 
+
+2. Consider a banking application where customers have accounts. Every customer has a unique customer id. A 
+customer can have multiple accounts in the bank. Multiple customers can share the same account number 
+(joint account). Accounts can be of various types like saving account, current account; recurring account etc. 
+Minimum balance must be maintained in each of these account types. Customers can perform deposit and 
+withdrawal transactions through various means like online, cheque, cash etc. A transaction can be initiated by a 
+single customer. A customer must have a name, address and email id. Contact number is optional.
+Make relations based on information & identify Primary Keys & Foreign keys. 
+
+
