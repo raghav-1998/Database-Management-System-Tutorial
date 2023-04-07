@@ -32,4 +32,34 @@ Relational Databases organizes data into one or more tables. A table consists of
 NoSQL (Not only SQL) database uses key-value, graph or document data structures to store data. These databases aim for simplicity of design, horizontal scaling and finer control over availability. Some examples on No Sql databases are Cassandra, MongoDB, CouchDB, OrientDB, HBASE etc.
 
 
+**Relational Model**
+
+
+|Id|Ename|Salary|Bonus|Dept|
+|--+-----+------+-----+----|
+|1 |James|75000  |1000 |ICP|
+|2 |Ethan|90000  |2000 |ETA|
+|3 |Emily|25000  |     |ETA|
+|4 |Jack |30000  |1000 |ETA|
+
+Employee(Id,Ename,Salary,Bonus,Dept)
+
+1. Relational Databases store data in relations i.e. tables. Each relation must have a name.
+2. An attribute is a named column of a relation. It stores a specific information about an object e.g. salary.
+3. A tuple is a row in a relation. It represents relationship between attributes that can contain single value.
+4. Cardinality of relation is the number of rows it contains. e.g. Cardinality of relation above is 4.
+5. Degree of relation is the number of attributes it contains. e.g. Degree of relation above is 5.
+6. NULL represents the value of an attribute that is currently unknown or not applicable. e.g. Bonus in 3rd row.
+7. A domain is the set of allowable values for one or more attributes. e.g. Domain of Dept is {ICP,ETA}
+8. A collection of relations with distinct relation names is called as Relational Model.
+
+
+
+
+
+
+
+
+
+
 
