@@ -61,3 +61,22 @@ Here are some key events and their dates from history:
 ![image](images/SQL-Miscellaneous-Data-Type-Examples.png)
 
 
+**Operators**:
+
+1. **Arithmetic Operators**:
+
+![image](images/Arithmetic-Operators.jpg)
+
+2. **Comparison Operators**:
+
+![image](images/Comparsion-Operators.jpg)
+
+**Other Comparison Operators**:
+
+![image](images/Other-Comparison-Operators.jpg)
+
+3. **Logical Operators**:
+
+![image](images/Logical-Operators.jpg)
+
+
